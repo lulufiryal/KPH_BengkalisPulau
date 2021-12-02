@@ -1,6 +1,6 @@
 // Where to load data from. Choose either a local file in GitHub repo, such as `data/places.csv`,
 // or a Google Sheets URL (File > Publish to the Web > CSV )
-const dataLocation = 'data/bengkalispulau.csv';
+const dataLocation = 'bengkalispulau.csv';
 
 // Map's initial center, and zoom level
 const mapCenter = [1.3208, 102.0790];
